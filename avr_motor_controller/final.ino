@@ -1,10 +1,3 @@
-
-/*
-* Code for counting turns from angle of read from encoder is created by : Yaseema Rusiru
-
-Motor Driver, PID Control, Anolag Read code parts are implemented by : Sundarbavan T.
-*/
-
 #define F_CPU 16000000UL
 #include <avr/io.h>
 #include <avr/interrupt.h>

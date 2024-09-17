@@ -1,0 +1,36 @@
+# Arduino IDE
+*.hex
+*.eep
+*.elf
+*.map
+*.lss
+*.sym
+
+# Build directories
+build/
+*.build/
+
+# IDE files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+*.pyc
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+
+# OS generated files
+Thumbs.db
+desktop.ini
